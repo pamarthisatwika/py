@@ -1,0 +1,15 @@
+# num1=int(input('enter the mum1'))
+# num2=int(input('enter the mum2'))
+# print(num1+num2)
+# num1=float(input('enter the mum1'))
+# num2=float(input('enter the mum2'))
+# print(num1+num2)
+# num1=list(input('enter the mum1'))
+# num2=list(input('enter the mum2'))
+# print(num1)
+# num1=5+6j
+# print(float(num1))
+# str1='good morning'
+# print(tuple(str1))
+# print(int('314'))
+# print(float('3.14'))
